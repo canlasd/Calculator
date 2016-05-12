@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         btnMultiplication=(Button)findViewById(R.id.btnMultiplication);
         txtResult = (TextView)findViewById(R.id.txtResult);
 
-        // onclick listeners
+        // onclick functionalities for each math operations
 
         btnAddition.setOnClickListener(new View.OnClickListener() {
             @Override

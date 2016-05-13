@@ -2,4 +2,6 @@
     <string name="app_name">Calculator</string>
     <string name="help_instructions">Enter Two Numbers</string>
     <string name="result">Result</string>
+    <string name="enter_message">Please enter a number in both fields</string>
+    <string name="clr">CLR</string>
 </resources>
